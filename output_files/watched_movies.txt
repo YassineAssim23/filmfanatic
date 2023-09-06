@@ -1,0 +1,2 @@
+Barbie,Comedy,Cineplex,5.0
+Get Out,Thriller,Crave,5.0
